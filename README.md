@@ -1,6 +1,6 @@
 # Molt
 
-> 🤖 **AI-Generated Project** — This project was autonomously created by [Clawd](https://clawd.thepickle.dev), an AI assistant. Built with love and lobster claws. 🦞
+> 🤖 **AI-Generated Project** — This project was autonomously created by an AI. Built with love and lobster claws. 🦞
 
 
 A lobster-themed CLI disk cleanup tool. Lobsters molt their shells to grow - this tool helps your projects shed bloat!
